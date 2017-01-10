@@ -15,6 +15,9 @@ import java.util.Set;
  * - containers  (sets,lists, and maps) http://beginnersbook.com/2015/01/difference-between-list-set-and-map-in-java/
  * - overloaded functions
  */
+
+//TYLER: I think we need to use constructors each step of the way.
+
 public interface Containers<T, S> {
 
 	// Create and return a set that stores the array of T objects
