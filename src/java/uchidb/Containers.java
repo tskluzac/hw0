@@ -16,8 +16,8 @@ import java.util.Set;
  * - overloaded functions
  */
 
-//TYLER: I think we need to use constructors each step of the way.
 
+/** Tyler: Interface untouched! **/
 public interface Containers<T, S> {
 
 	// Create and return a set that stores the array of T objects
